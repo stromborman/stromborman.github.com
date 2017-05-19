@@ -5,36 +5,9 @@
     <description>Website of Katy Huff, nuclear engineer.</description>
     <link>http://katyhuff.github.io/</link>
     <atom:link href="http://katyhuff.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 May 2017 21:54:14 -0700</pubDate>
-    <lastBuildDate>Thu, 18 May 2017 21:54:14 -0700</lastBuildDate>
+    <pubDate>Thu, 18 May 2017 22:12:09 -0700</pubDate>
+    <lastBuildDate>Thu, 18 May 2017 22:12:09 -0700</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>Huff Plans to Join NPRE</title>
-        <description>&lt;p&gt;I am thrilled to be joining the University of Illinois at Urbana-Champaign as 
-an Assistant Professor in the Department of Nuclear, Plasma and Radiological 
-Engineering. I was honored to have been awarded a Blue Waters Assistant 
-Professorship as well as an affiliate faculty appointment with the National 
-Center for Supercomputing Applications. The support of NCSA is very meaningful 
-to me and I hope to make important use of the high performance computing 
-resources on campus when I arrive.&lt;/p&gt;
-
-&lt;p&gt;I will begin my appointment on August 16, 2016. Until then, I’ll be wrapping up 
-my work at the University of California, Berkeley. In addition, I’ll be 
-preparing my first NPRE course, seeking graduate students and postdocs for a 
-research group, finding a home in the Urbana-Champaign area, and setting up 
-this website.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 Feb 2016 18:03:54 -0800</pubDate>
-        <link>http://katyhuff.github.io/jekyll/update/2016/02/06/huff-joins-npre/</link>
-        <guid isPermaLink="true">http://katyhuff.github.io/jekyll/update/2016/02/06/huff-joins-npre/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
   </channel>
 </rss>
