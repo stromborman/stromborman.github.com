@@ -1,8 +1,8 @@
 
-# Katy Huff's Homepage
+# Strom Borman's Homepage
 
-This is the repository that holds the hompage for Katy Huff. 
+This is the repository that holds the hompage for Strom Borman. 
 
-## Building This Website
+## Attribution
 
-Coming soon... 
+Forked from katyhuff/katyhuff.github.com
